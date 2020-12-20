@@ -1,5 +1,4 @@
-# LHR
-LFR Haplotype-resolved Indel caller
+# LHR_indel: LFR Haplotype-resolved Indel caller
 
 LHR_indel is writen for individual genome phasing and assembly based on the stLFR and NGS technology. Latest version was v1.0 upload in 12/20/2020.
 
